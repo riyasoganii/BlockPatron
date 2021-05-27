@@ -1,1 +1,41 @@
+Application Information
+
+Background
+
+Crowdfunding is faced with a major problem- accountability. In a lot of cases, there are delays in the transfer of money, and sometimes, the money doesn't reach the recipient altogether! Also, in the case that money is given to a scam campaign, you may never want to donate again. 
+
+With blockchain technology, you know more information. Like who you’re going to send money to and how they plan to spend the money. On the other hand, the receivers will also receive more support for their projects with lower fees and overall cost, without hefty fees from lawyers. 
+
+There is a high need for crowdfunding for charities and non-profits in particular. This is because people are often hesitant to donate to such organisations as, unlike a solid product, they have no proof to see where their money is really going. Additionally, a crowdfunding application which is centered around charities and nonprofits is yet to be built altogether.
+
+Idea
+
+I aim to build an app where a novice user is able to browse through non-profits/charities filtered on the basis of the causes they wish to support, see all details of that non-profit/charity, including how they will spend the money, and then donate the money in full confidence that it will be used in the right place.
+
+User Persona
+
+Ezinne, 35, Nigeria
+A mother of 2 👨‍👩‍👧‍👦. She browses the internet using only a smartphone. She would only use a light, mobile application, to not waste the data usage and the phone battery. She was convinced to try your app by her husband.
+
+Defining characteristics of User Persona
+
+Desire to contribute to a good cause, to give back to society.
+Unable to volunteer due to prior commitments.
+Willingness to donate money.
+Skeptical about existing crowdfunding processes. May have had bad experiences in the past.
+
+Color Palette
+
+Typography
+H1 - Montserrat Semi-Bold (30 pt)
+
+H2- Montserrat Semi-Bold (20 pt)
+
+H3- Montserrat Semi-Bold (16 pt)
+Body-Montserrat Normal (14 pt)
+
+H4- Montserrat Semi-Bold (12 pt)
+Body-Montserrat Thin (12 pt) 
+
+Still sticking with a straightforward design, I chose Montserrat for all the text because of its versatility as a heading and body text. Its simple appearance and popular usage makes it appealing to read and understand.
 
