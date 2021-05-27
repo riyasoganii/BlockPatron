@@ -23,19 +23,3 @@ Desire to contribute to a good cause, to give back to society.
 Unable to volunteer due to prior commitments.
 Willingness to donate money.
 Skeptical about existing crowdfunding processes. May have had bad experiences in the past.
-
-Color Palette
-
-Typography
-H1 - Montserrat Semi-Bold (30 pt)
-
-H2- Montserrat Semi-Bold (20 pt)
-
-H3- Montserrat Semi-Bold (16 pt)
-Body-Montserrat Normal (14 pt)
-
-H4- Montserrat Semi-Bold (12 pt)
-Body-Montserrat Thin (12 pt) 
-
-Still sticking with a straightforward design, I chose Montserrat for all the text because of its versatility as a heading and body text. Its simple appearance and popular usage makes it appealing to read and understand.
-
