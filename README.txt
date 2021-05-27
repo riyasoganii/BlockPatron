@@ -23,3 +23,5 @@ Desire to contribute to a good cause, to give back to society.
 Unable to volunteer due to prior commitments.
 Willingness to donate money.
 Skeptical about existing crowdfunding processes. May have had bad experiences in the past.
+
+Please start by viewing the user journey flow (download it to view!) to get a better idea of the layout and functioning of the app. Afterwards, you may view the wireframes to get a live demo of the product in use, and then you may view the business plan, to judge its viability.
