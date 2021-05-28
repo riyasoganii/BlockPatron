@@ -6,8 +6,8 @@ Crowdfunding is faced with a major problem- accountability.
 In a lot of cases, there are delays in the transfer of money, and sometimes, the money doesn't reach the recipient altogether! 
 Also, in the case that money is given to a scam campaign, you may never want to donate again. 
 
-With blockchain technology, you know more information. Like who you’re going to send money to and how they plan to spend the money. 
-On the other hand, the receivers will also receive more support for their projects with lower fees and overall cost, without hefty fees from lawyers. 
+With blockchain technology, you know more information. Like who you’re going to send money to and how they plan to spend it. 
+On the other hand, the receivers will also receive more support with lower fees and overall cost, without hefty fees from lawyers. 
 
 There is a high need for crowdfunding for charities and non-profits in particular. 
 This is because people are often hesitant to donate to such organisations as, unlike a solid product, they have no proof to see where their money is really going. 
