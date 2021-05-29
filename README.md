@@ -54,7 +54,7 @@ Skeptical about existing crowdfunding processes. May have had bad experiences in
 ## Parts of Project
 View the user journey flow (download it to view!) to get a better idea of the layout and functioning of the app. 
 
-View the video to get a live demo of the product in use.
+View the video (https://youtu.be/kB7vKfQgYNw) to get a live demo of the product in use.
 
 View the 'Design Decision' doc to see the product in detail, and learn the thought process behind the design decisions. This has answers to the guiding questions as well.
 
