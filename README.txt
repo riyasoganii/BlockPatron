@@ -2,22 +2,24 @@ Application Information
 
 Background
 
-Crowdfunding is faced with a major problem- accountability. 
-In a lot of cases, there are delays in the transfer of money, and sometimes, the money doesn't reach the recipient altogether! 
-Also, in the case that money is given to a scam campaign, you may never want to donate again. 
+Donation is faced with a major problem- accountability. 
+In a lot of cases, there are delays in the transfer of donations, and sometimes, the donation doesn't reach the recipient altogether! 
+Also, in the case that donation is given to a scam campaign, you may never want to donate again. 
 
-With blockchain technology, you know more information. Like who you’re going to send money to and how they plan to spend it. 
-On the other hand, the receivers will also receive more support with lower fees and overall cost, without hefty fees from lawyers. 
+With blockchain technology, you know more information. Like who you’re going to send your money to, and how they plan to spend it. 
+On the other hand, the receivers will also receive more support, with lower transaction fees, and without hefty fees from lawyers. 
 
 There is a high need for crowdfunding for charities and non-profits in particular. 
-This is because people are often hesitant to donate to such organisations as, unlike a solid product, they have no proof to see where their money is really going. 
+This is because people are often hesitant to donate to such organisations as, they have no proof to see where their money is really going. 
 Additionally, a crowdfunding application which is centered around charities and nonprofits is yet to be built altogether.
 
 Idea
 
-I aim to build an app where a novice user is able to browse through non-profits/charities filtered on the basis of the causes they wish to support, 
-see all details of that non-profit/charity, including how they will spend the money, 
-and then donate the money in full confidence that it will be used in the right place.
+I aim to build an app where a novice user is able to browse through non-profits filtered on the basis of the causes they wish to support, 
+see all details of that non-profit, and then securely donate their money as cryptocurrency using fiat on-ramp. 
+This donation will be instant, with no external fees.
+They will also be provided with blockchain transaction ID proof of the nonprofit's transactions, 
+so they have full confidence that their money is being used in the right place.
 
 User Persona
 
@@ -34,4 +36,4 @@ Willingness to donate money.
 Skeptical about existing crowdfunding processes. May have had bad experiences in the past.
 
 Please start by viewing the user journey flow (download it to view!) to get a better idea of the layout and functioning of the app. 
-Afterwards, you may view the wireframes to get a live demo of the product in use, and then you may view the business plan, to judge its viability.
+Afterwards, you may view the video to get a live demo of the product in use, and then you may view the business plan, to judge its viability.
