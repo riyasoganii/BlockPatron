@@ -10,7 +10,7 @@ But, with blockchain technology, you know more information.
 ## Idea
 
 BlockPatron is an app aimed at bringing donations to various nonprofits and charities. 
-But, this isn't your regular crowdfunding app. BlockPatron uses blockchain technology to tackle the biggest problems of modern day crowdfunding.
+But, this isn't your regular crowdfunding app. BlockPatron uses blockchain technology to tackle the biggest problems of modern day crowdfunding, in the following ways:
 
 
 Better visibility, and more transparency- you'll know exactly where your donation is going, and what it is being used for! 
@@ -22,15 +22,14 @@ No extra transaction fees- who needs those?!
 No delays- your donation is received instantly!
 
 
-I aim to build an app where a novice user is able to browse through non-profits filtered on the basis of the causes they wish to support, 
-see all details of that non-profit, and then securely donate their money as cryptocurrency using fiat on-ramp. 
+Thus, I aim to build an app where a novice user is able to browse through nonprofits filtered on the basis of the causes they wish to support, 
+see all details of a non-profit with full transparency, and then securely donate their money to the nonprofit as cryptocurrency on blockchain, using fiat on-ramp. 
 This donation will be instant, with no external fees.
-They will also be provided with blockchain transaction ID proof of the nonprofit's transactions, 
+The user will also be provided with blockchain transaction ID proof of the nonprofit's transactions, 
 so they have full confidence that their money is being used in the right place.
 
 
 BlockPatron will use fiat on-ramp to convert donatins to bitcoin. 
-That way, the donation can be sent as bitcoin directly to the nonprofit using blockchain!
 
 
 ## User Persona
@@ -56,7 +55,7 @@ View the user journey flow (download it to view!) to get a better idea of the la
 
 View the video (https://youtu.be/kB7vKfQgYNw) to get a live demo of the product in use.
 
-View the 'Product and Design Decisions' doc to see the product in detail, and learn the thought process behind the product and design decisions. This has answers to the guiding questions as well.
+View the 'Product and Design Decisions' doc to see the product in detail, and learn the thought process behind the product and design. This has answers to the guiding questions as well.
 
 View the 'Business Plan' to judge the product's viability.
 
