@@ -55,7 +55,10 @@ View the user journey flow (download it to view!) to get a better idea of the la
 
 View the video (https://youtu.be/kB7vKfQgYNw) to get a live demo of the product in use.
 
-View the 'Product and Design Decisions' doc to see the product in detail, and learn the thought process behind the product and design. This has answers to the guiding questions as well.
+View the 'Product and Design Decisions' doc to learn the thought process behind the product and design. This has answers to the guiding questions as well.
+
+Interact with the product wireframe yourself at this link: https://framer.com/projects/BlockPatron--AcaePwKms19phRbXg3pZ-gSPHn
+(Note: Press the 'play' button on the top right to run)
 
 View the 'Business Plan' to judge the product's viability.
 
