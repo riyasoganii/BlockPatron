@@ -51,7 +51,7 @@ Skeptical about existing crowdfunding processes. May have had bad experiences in
 
 
 ## Parts of Project
-View the user journey flow (download it to view!) to get a better idea of the layout and functioning of the app. 
+View the 'User Journey Flow' (download it to view!) to get a better idea of the layout and functioning of the app. 
 
 View the video (https://youtu.be/kB7vKfQgYNw) to get a live demo of the product in use.
 
@@ -62,3 +62,11 @@ Interact with the product wireframe yourself at this link: https://framer.com/pr
 
 View the 'Business Plan' to judge the product's viability.
 
+## Project Details
+Submission for:
+
+🏆 0xHack Adoption Bounty: 💲3000 DAI - Best Crypto-Newbie Friendly App
+
+🏆 0xHack Adoption Bounty: 💲1000 DAI - 2nd best crypto-newbie friendly app
+
+Single-person team (Me, riyasoganii on github)
