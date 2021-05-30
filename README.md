@@ -29,7 +29,9 @@ The user will also be provided with blockchain transaction ID proof of the nonpr
 so they have full confidence that their money is being used in the right place.
 
 
-BlockPatron will use fiat on-ramp to convert donatins to bitcoin. 
+BlockPatron will use fiat on-ramp to convert donatins to bitcoin before sending a transaction on Blockchain. 
+
+The Bitcoin donations will be converted to a stable coin (eg. DAI) once the transaction is recieved. The nonprofit can then withdraw these funds at their convenience.
 
 
 ## User Persona
