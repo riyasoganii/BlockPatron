@@ -56,7 +56,7 @@ View the user journey flow (download it to view!) to get a better idea of the la
 
 View the video (https://youtu.be/kB7vKfQgYNw) to get a live demo of the product in use.
 
-View the 'Product and Design Decisions' doc to see the product in detail, and learn the thought process behind the design decisions. This has answers to the guiding questions as well.
+View the 'Product and Design Decisions' doc to see the product in detail, and learn the thought process behind the product and design decisions. This has answers to the guiding questions as well.
 
 View the 'Business Plan' to judge the product's viability.
 
